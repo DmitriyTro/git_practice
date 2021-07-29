@@ -3,3 +3,4 @@ Hello World!
 Line from User2
 Line from User1
 some new feature 123
+line from User1
